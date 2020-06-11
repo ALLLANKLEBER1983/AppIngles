@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="InglesCriancas.PageCores"
+             Title="Cores"
+             BackgroundColor="Aquamarine">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_black"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : Black" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Preto" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_brown"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : Brown" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Marrom" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_dusty_yellow"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : Dusty yellow" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Amarelo empoeirado" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_gray"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : Gray" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Cinza" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_green"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : Green" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Verde" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_mustard_yellow"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : Mustard Yellow" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Amarelos Mostarda" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_red"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : Red" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Vermelho" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="color_white"/>
+                    <StackLayout>
+                        <Label FontSize="Large" Text="Inglês : White" VerticalOptions="EndAndExpand"/>
+                        <Label FontSize="Large" Text="Português : Branco" VerticalOptions="StartAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

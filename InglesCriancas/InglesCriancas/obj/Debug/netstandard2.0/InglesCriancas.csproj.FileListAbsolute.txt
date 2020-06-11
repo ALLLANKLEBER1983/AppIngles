@@ -1,0 +1,17 @@
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\bin\Debug\netstandard2.0\InglesCriancas.deps.json
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\bin\Debug\netstandard2.0\InglesCriancas.dll
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\bin\Debug\netstandard2.0\ref\InglesCriancas.dll
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\bin\Debug\netstandard2.0\InglesCriancas.pdb
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\InglesCriancas.csprojAssemblyReference.cache
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\InglesCriancas.AssemblyInfoInputs.cache
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\InglesCriancas.AssemblyInfo.cs
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\InglesCriancas.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\InglesCriancas.dll
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\ref\InglesCriancas.dll
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\InglesCriancas.pdb
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\PageCores.xaml.g.cs
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\PageNumeros.xaml.g.cs
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\PageFamilia.xaml.g.cs
