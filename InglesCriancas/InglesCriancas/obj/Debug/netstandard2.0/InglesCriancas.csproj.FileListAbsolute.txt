@@ -15,3 +15,4 @@ C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Deb
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\PageCores.xaml.g.cs
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\PageNumeros.xaml.g.cs
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\PageFamilia.xaml.g.cs
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas\obj\Debug\netstandard2.0\PagePaises.xaml.g.cs

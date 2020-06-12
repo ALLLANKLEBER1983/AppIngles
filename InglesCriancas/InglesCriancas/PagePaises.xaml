@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="InglesCriancas.PagePaises"
+             Title="Países"
+             BackgroundColor="Chocolate">
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView>
+                <StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="franca"/>
+                        <StackLayout>
+                            <Label FontSize="Large" Text="Inglês : France" VerticalOptions="EndAndExpand"/>
+                            <Label FontSize="Large" Text="Português : França" VerticalOptions="StartAndExpand"/>
+                        </StackLayout>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                            <Image Source="brasil"/>
+                            <StackLayout>
+                                <Label FontSize="Large" Text="Inglês : Brazil" VerticalOptions="EndAndExpand"/>
+                                <Label FontSize="Large" Text="Português : Brasil" VerticalOptions="StartAndExpand"/>
+                            </StackLayout>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="irlanda"/>
+                        <StackLayout>
+                            <Label FontSize="Large" Text="Inglês : Ireland" VerticalOptions="EndAndExpand"/>
+                            <Label FontSize="Large" Text="Português : Irlanda" VerticalOptions="StartAndExpand"/>
+                        </StackLayout>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="coreiasul"/>
+                        <StackLayout>
+                            <Label FontSize="Large" Text="Inglês : South Korea" VerticalOptions="EndAndExpand"/>
+                            <Label FontSize="Large" Text="Português : Coreia do Sul" VerticalOptions="StartAndExpand"/>
+                        </StackLayout>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="coreianorte"/>
+                        <StackLayout>
+                            <Label FontSize="Large" Text="Inglês : North Korea" VerticalOptions="EndAndExpand"/>
+                            <Label FontSize="Large" Text="Português : Coreia do Norte" VerticalOptions="StartAndExpand"/>
+                        </StackLayout>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Image Source="inglaterra"/>
+                        <StackLayout>
+                            <Label FontSize="Large" Text="Inglês : England" VerticalOptions="EndAndExpand"/>
+                            <Label FontSize="Large" Text="Português : Inglaterra" VerticalOptions="StartAndExpand"/>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

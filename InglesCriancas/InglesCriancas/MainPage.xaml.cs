@@ -36,7 +36,13 @@ namespace InglesCriancas
 
         private void btSair_Clicked(object sender, EventArgs e)
         {
+            System.Diagnostics.Process.GetCurrentProcess().Kill();
 
+        }
+
+        private void btPaises_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new PagePaises());
         }
     }
 }

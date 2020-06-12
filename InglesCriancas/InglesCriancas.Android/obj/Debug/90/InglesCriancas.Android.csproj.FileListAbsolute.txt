@@ -504,3 +504,10 @@ C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\brasil.png
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\coreianorte.png
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\coreiasul.png
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\inglaterra.png
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\irlanda.png
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\franca.png
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\english.png

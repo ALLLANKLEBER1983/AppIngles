@@ -9,7 +9,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Image Source="logoapp"/>
+        <Image Source="english"/>
         <Button Text="Cores"
                 HorizontalOptions="FillAndExpand"
                 VerticalOptions="FillAndExpand"
@@ -31,6 +31,13 @@
                 BackgroundColor="Orange"
                 TextColor="White"
                 Margin="5,0"/>
+        <Button Text="Países"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                x:Name="btPaises" Clicked="btPaises_Clicked"
+                Margin="5,0"
+                BackgroundColor="Chocolate"
+                TextColor="white"/>
         <Button Text="Sair"
                 HorizontalOptions="FillAndExpand"
                 VerticalOptions="FillAndExpand"
