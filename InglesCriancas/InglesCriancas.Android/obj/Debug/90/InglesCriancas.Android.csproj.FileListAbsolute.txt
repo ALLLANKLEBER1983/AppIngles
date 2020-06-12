@@ -511,3 +511,4 @@ C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\irlanda.png
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\franca.png
 C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\english.png
+C:\Users\Allan\source\repos\InglesCriancas\InglesCriancas\InglesCriancas.Android\obj\Debug\90\res\drawable\bb

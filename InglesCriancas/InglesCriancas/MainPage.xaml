@@ -9,7 +9,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Image Source="english"/>
+        <Image Source="bb"/>
         <Button Text="Cores"
                 HorizontalOptions="FillAndExpand"
                 VerticalOptions="FillAndExpand"
